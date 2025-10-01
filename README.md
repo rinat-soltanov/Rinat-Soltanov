@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rinat
 
-# 📌 About Me
+## 📌 About Me
 Aspiring **Junior QA Engineer** passionate about ensuring software quality through manual and API testing.  
 Currently learning and practicing industry-standard tools and methods to build a strong foundation in QA. Here I share my testing portfolio items developed through courses and personal projects. You are also welcome to check out my resume 
 
