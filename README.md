@@ -4,7 +4,8 @@
 Aspiring **Junior QA Engineer** passionate about ensuring software quality through manual and API testing.  
 Currently learning and practicing industry-standard tools and methods to build a strong foundation in QA. Here I share my testing portfolio items developed through courses and personal projects. You are also welcome to check out my resume 
 
-## 📂 Projects & Practice(to be added)
+## 📂 Projects & Practice(to be added) 
+ <a href="https://github.com/rinat-soltanov/Webshop-Testing.git" target="_blank"> **Web Shop Testing** </a>                           
 
 ## 🛠️ Tools I can use
 <p align="center">
