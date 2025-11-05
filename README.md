@@ -6,8 +6,7 @@ Currently learning and practicing industry-standard tools and methods to build a
 
 ## 📂 Projects & Practice(to be added) 
  <a href="https://github.com/rinat-soltanov/Webshop-Testing.git" target="_blank"> **Web Shop Testing** </a>       
- <a href="https://newskillsonline81.atlassian.net/jira/software/projects/WSCET/boards/67?atlOrigin=eyJpIjoiNjYyZDMzOTk1OWFmNGUyY2IzODY2NDM0YjA4MzRiOTciLCJwIjoiaiJ9" target="_blank"> **Exploratory Testing** </a>
-
+ 
 ## 🛠️ Tools I can use
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" title="DevTools" alt="DevTools" width="40" height="40"/>&nbsp;
