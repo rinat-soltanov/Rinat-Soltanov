@@ -5,7 +5,8 @@ Aspiring **Junior QA Engineer** passionate about ensuring software quality throu
 Currently learning and practicing industry-standard tools and methods to build a strong foundation in QA. Here I share my testing portfolio items developed through courses and personal projects. You are also welcome to check out my resume 
 
 ## 📂 Projects & Practice(to be added) 
- <a href="https://github.com/rinat-soltanov/Webshop-Testing.git" target="_blank"> **Web Shop Testing** </a>                           
+ <a href="https://github.com/rinat-soltanov/Webshop-Testing.git" target="_blank"> **Web Shop Testing** </a>       
+ <a href="https://newskillsonline81.atlassian.net/jira/software/projects/WSCET/boards/67?atlOrigin=eyJpIjoiNjYyZDMzOTk1OWFmNGUyY2IzODY2NDM0YjA4MzRiOTciLCJwIjoiaiJ9" target="_blank"> **Exploratory Testing** </a>
 
 ## 🛠️ Tools I can use
 <p align="center">
