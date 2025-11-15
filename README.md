@@ -6,18 +6,23 @@ Currently learning and practicing industry-standard tools and methods to build a
 
 ## 📂 Projects & Practice(to be added) 
 
-### 1. Web Shop Testing Project
+### 1. <a href="https://github.com/rinat-soltanov/Webshop-Testing.git" target="_blank"> **Web Shop Testing Project** </a>
 
-**Project Description:** A comprehensive testing project for a demo web store ([intern.demoshopping.ru](https://intern.demoshopping.ru/)). The goal was to apply various testing techniques and document the entire process.
+**Project Description:** A comprehensive testing project for a demo web store (intern.demoshopping.ru). The goal was to apply various testing techniques and document the entire process across both frontend and backend.
 
 **What I did:**
-*   Analyzed and decomposed requirements.
-*   Applied test design techniques: Equivalence Partitioning, Boundary Value Analysis, Pairwise Testing, Decision Tables.
-*   Created test documentation: Checklists, Test Cases, Bug Reports.
-*   Performed exploratory testing of key user flows (Cart, Payment, Order History).
-*   
- <a href="https://github.com/rinat-soltanov/Webshop-Testing.git" target="_blank"> **Web Shop Testing** </a>       
- 
+
+#### 🔍 Manual & Functional Testing
+- Analyzed and decomposed requirements
+- Applied test design techniques: Equivalence Partitioning, Boundary Value Analysis, Pairwise Testing, Decision Tables
+- Created test documentation: Checklists, Test Cases, Bug Reports
+- Performed exploratory testing of key user flows (Cart, Payment, Order History)
+
+#### 🔌 API Testing
+- **Tested REST API endpoints** (authentication, product catalog, user management)
+- **Created and executed API test collections** in Postman
+- **Verified API responses** (status codes, response schemas, error handling)
+   
 ## 🛠️ Tools I can use
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" title="DevTools" alt="DevTools" width="40" height="40"/>&nbsp;
