@@ -5,6 +5,17 @@ Aspiring **Junior QA Engineer** passionate about ensuring software quality throu
 Currently learning and practicing industry-standard tools and methods to build a strong foundation in QA. Here I share my testing portfolio items developed through courses and personal projects. You are also welcome to check out my resume 
 
 ## 📂 Projects & Practice(to be added) 
+
+### 1. Web Shop Testing Project
+
+**Project Description:** A comprehensive testing project for a demo web store ([intern.demoshopping.ru](https://intern.demoshopping.ru/)). The goal was to apply various testing techniques and document the entire process.
+
+**What I did:**
+*   Analyzed and decomposed requirements.
+*   Applied test design techniques: Equivalence Partitioning, Boundary Value Analysis, Pairwise Testing, Decision Tables.
+*   Created test documentation: Checklists, Test Cases, Bug Reports.
+*   Performed exploratory testing of key user flows (Cart, Payment, Order History).
+*   
  <a href="https://github.com/rinat-soltanov/Webshop-Testing.git" target="_blank"> **Web Shop Testing** </a>       
  
 ## 🛠️ Tools I can use
