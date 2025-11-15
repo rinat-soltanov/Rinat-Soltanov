@@ -6,7 +6,7 @@ Currently learning and practicing industry-standard tools and methods to build a
 
 ## 📂 Projects & Practice(to be added) 
 
-### 👉️1.<a href="https://github.com/rinat-soltanov/Webshop-Testing.git" target="_blank"> **Demo WebShop Testing Project** </a>
+### 👉️1.<a href="https://github.com/rinat-soltanov/Webshop-Testing.git" target="_blank"> **Demo Webshop Testing Project** </a>
 
 **Project Description:** A comprehensive testing project for a demo web store ([intern.demoshopping.ru](https://intern.demoshopping.ru/)). The goal was to apply various testing techniques and document the entire process across both frontend and backend.
 
