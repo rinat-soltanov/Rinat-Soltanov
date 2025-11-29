@@ -8,7 +8,7 @@ Currently learning and practicing industry-standard tools and methods to build a
 
 ### 👉️1.<a href="https://github.com/rinat-soltanov/Webshop-Testing.git" target="_blank"> **Demo Webshop Testing Project** </a>
 
-**Project Description:** A comprehensive testing project for a demo web store ([intern.demoshopping.ru](https://intern.demoshopping.ru/)). The goal was to apply various testing techniques and document the entire process across both frontend and backend.
+**Project Description:** A comprehensive testing project for a demo web store ([intern.demoshopping.ru](https://intern.demoshopping.ru/)). The goal was to apply various testing techniques and document the entire process across both frontend, backend and database layers. 
 
 **What I did:**
 
@@ -22,6 +22,9 @@ Currently learning and practicing industry-standard tools and methods to build a
 - **Tested REST API endpoints** (authentication, product catalog, user management)
 - **Created and executed API test collections** in Postman
 - **Verified API responses** (status codes, response schemas, error handling)
+
+#### 🗄️ Database Testing
+- **Wrote and executed SQL queries to validate data consistency and business rules directly in the database** 
    
 ## 🛠️ Tools I can use
 <p align="center">
