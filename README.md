@@ -13,8 +13,9 @@ Currently learning and practicing industry-standard tools and methods to build a
 **What I did:**
 
 #### 🔍 Manual & Functional Testing
-- Analyzed and decomposed requirements
-- Applied test design techniques: Equivalence Partitioning, Boundary Value Analysis, Pairwise Testing, Decision Tables
+- Analyzed and decomposed [**Requirements**](https://docs.google.com/spreadsheets/d/1FNZtpPM6Y8_0JFXUuHVSI1FF96HLIf_cHGZUdwxbBhc/edit?usp=sharing)
+- Applied test design techniques: <a href="https://docs.google.com/spreadsheets/d/1A0ovryJL0fSBZmZQS-QHUjJ9r2oGUSWlXJrmnmnRd-k/edit?usp=sharing" target="_blank">**Equivalence classes and Boundary value analysis**</a>,  <a href="https://docs.google.com/spreadsheets/d/107sxC2qU_qQDaQ7KB_i2Llkjo6gFLQhhlBxDa7EKTY4/edit?usp=sharing" target="_blank">**Pairwise Testing**</a>, <a href="https://docs.google.com/spreadsheets/d/1EzpZLWUTx4MUlsekh2IB9njMH9-hZk3cs_rdylS8v4w/edit?usp=sharing" target="_blank"> **Decision Table**</a> 
+
 - Created test documentation: Checklists, Test Cases, Bug Reports
 - Performed exploratory testing of key user flows (Cart, Payment, Order History) and documented them with a Charter and Bug Reports
 
