@@ -26,7 +26,8 @@ Currently learning and practicing industry-standard tools and methods to build a
 - **Verified API responses** (status codes, response schemas, error handling)
 
 #### 🗄️ Database Testing
-- **Wrote and executed SQL queries to validate data consistency and business rules directly in the database** 
+- **Wrote and executed <a href="https://docs.google.com/spreadsheets/d/1U1eaNXB2yd5WtRAsroLNUVVc7YPIA02YO76Cmn70m4Y/edit?usp=sharing
+"> **SQL queries**</a> to validate data consistency and business rules directly in the database** 
    
 ## 🛠️ Tools I can use
 <p align="center">
