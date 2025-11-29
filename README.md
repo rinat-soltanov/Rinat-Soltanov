@@ -13,11 +13,11 @@ Currently learning and practicing industry-standard tools and methods to build a
 **What I did:**
 
 #### 🔍 Manual & Functional Testing
-- Analyzed and decomposed [**Requirements**](https://docs.google.com/spreadsheets/d/1FNZtpPM6Y8_0JFXUuHVSI1FF96HLIf_cHGZUdwxbBhc/edit?usp=sharing)
+- Analyzed and decomposed [**requirements**](https://docs.google.com/spreadsheets/d/1FNZtpPM6Y8_0JFXUuHVSI1FF96HLIf_cHGZUdwxbBhc/edit?usp=sharing)
 - Applied test design techniques: <a href="https://docs.google.com/spreadsheets/d/1A0ovryJL0fSBZmZQS-QHUjJ9r2oGUSWlXJrmnmnRd-k/edit?usp=sharing" target="_blank">**Equivalence classes and Boundary value analysis**</a>,  <a href="https://docs.google.com/spreadsheets/d/107sxC2qU_qQDaQ7KB_i2Llkjo6gFLQhhlBxDa7EKTY4/edit?usp=sharing" target="_blank">**Pairwise Testing**</a>, <a href="https://docs.google.com/spreadsheets/d/1EzpZLWUTx4MUlsekh2IB9njMH9-hZk3cs_rdylS8v4w/edit?usp=sharing" target="_blank"> **Decision Table**</a> 
 
-- Created test documentation: Checklists, Test Cases, Bug Reports
-- Performed exploratory testing of key user flows (Cart, Payment, Order History) and documented them with a Charter and Bug Reports
+- Created test documentation: <a href="https://docs.google.com/spreadsheets/d/1JNhBGGng4ctHzEFjCOwuiPJezoGYVdUnLse8kx4FJSM/edit?usp=sharing" target="_blank"> **Check List**</a>,   <a href="https://drive.google.com/file/d/1vwTcWfANBP72_5sEQ2gKUJGH6snELPxN/view?usp=sharing" target="_blank"> **Full set of test cases based on requirements (ID1-ID8)**</a>, <a href="https://drive.google.com/file/d/1exubjl-aTj7H9Jq8xI_yaQ_jqX8Z1Se6/view?usp=sharing" target="_blank"> **Bug reports**</a>
+- Performed <a href="https://drive.google.com/file/d/1bHJEm3V09I1-jjSP8jbKaoD0ef06BzKN/view?usp=sharing"> **exploratory testing**</a> of key user flows (Cart, Payment, Order History) and documented them with a Charter and Bug Reports
 
 #### 🔌 API Testing
 - **Tested REST API endpoints** (authentication, product catalog, user management)
