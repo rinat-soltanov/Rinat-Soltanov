@@ -16,7 +16,7 @@ Currently learning and practicing industry-standard tools and methods to build a
 - Analyzed and decomposed requirements
 - Applied test design techniques: Equivalence Partitioning, Boundary Value Analysis, Pairwise Testing, Decision Tables
 - Created test documentation: Checklists, Test Cases, Bug Reports
-- Performed exploratory testing of key user flows (Cart, Payment, Order History)
+- Performed exploratory testing of key user flows (Cart, Payment, Order History) and documented them with a Charter and Bug Reports
 
 #### 🔌 API Testing
 - **Tested REST API endpoints** (authentication, product catalog, user management)
