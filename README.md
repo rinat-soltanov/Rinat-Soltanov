@@ -21,7 +21,7 @@ Currently learning and practicing industry-standard tools and methods to build a
 
 #### 🔌 API Testing
 - **Tested REST API endpoints** (authentication, product catalog, user management)
-- **Created and executed <a href="https://www.postman.com/newskillsonline81-9258011/api-testing-portfolio/collection/956kfjm/demo-webshop?action=share&creator=47640642
+- **Created and executed** <a href="https://www.postman.com/newskillsonline81-9258011/api-testing-portfolio/collection/956kfjm/demo-webshop?action=share&creator=47640642
 "> **API test collection**</a> in Postman
 - **Verified API responses** (status codes, response schemas, error handling)
 
