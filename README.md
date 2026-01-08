@@ -4,7 +4,7 @@
 Aspiring **Junior QA Engineer** passionate about ensuring software quality through manual and API testing.  
 Currently learning and practicing industry-standard tools and methods to build a strong foundation in QA. Here I share my testing portfolio items developed through courses and personal projects. You are also welcome to check out my resume 
 
-## 📂 Projects & Practice(to be added) 
+## 📂 Projects & Practice
 
 ### 👉️1.<a href="https://github.com/rinat-soltanov/Webshop-Testing.git" target="_blank"> **Demo Webshop Testing Project** </a>
 
@@ -28,7 +28,23 @@ Currently learning and practicing industry-standard tools and methods to build a
 
 #### 🗄️ Database Testing
 - **Wrote and executed <a href="https://docs.google.com/spreadsheets/d/1U1eaNXB2yd5WtRAsroLNUVVc7YPIA02YO76Cmn70m4Y/edit?usp=sharing
-"> **SQL queries**</a> to validate data consistency and business rules directly in the database** 
+"> **SQL queries**</a> to validate data consistency and business rules directly in the database**
+
+### 👉️2.**Recruitment Module (OrangeHRM)**
+**Project Description:**
+This project demonstrates hands-on experience in manual exploratory testing of a web-based HR application. Testing was performed on the Recruitment module of the OrangeHRM demo system, focusing on identifying functional defects, validation issues, and usability problems.
+
+**What I did:**
+
+- Conducted session-based exploratory testing using a defined test charter
+
+- Designed and applied checklists to guide feature exploration
+
+- Tested key recruitment workflows (_Candidate creation and management, Vacancy selection, Application status changes, Search and filtering behavior_)
+
+- Performed positive and negative testing
+
+- Identified, analyzed, and documented defects
    
 ## 🛠️ Tools I can use
 <p align="center">
@@ -42,6 +58,7 @@ Currently learning and practicing industry-standard tools and methods to build a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
 </p>
+
 
 ## 🎯 My Goals
 - Gain hands-on experience with real QA projects  
