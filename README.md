@@ -33,19 +33,19 @@ Currently learning and practicing industry-standard tools and methods to build a
 
 ### 👉️2.<a href="https://github.com/rinat-soltanov/Orange-HRM-/blob/976eceae026184843afec9b16c495354be6e34aa/README.md" target="_blank"> **Recruitment Module (OrangeHRM)**</a>
 **Project Description:**
-This project demonstrates hands-on experience in manual exploratory testing of a web-based HR application. Testing was performed on the Recruitment module of the OrangeHRM demo system, focusing on identifying functional defects, validation issues, and usability problems.
+This project demonstrates hands-on experience in manual _**exploratory testing**_ of a web-based HR application. Testing was performed on the Recruitment module of the OrangeHRM demo system, focusing on identifying functional defects, validation issues, and usability problems.
 
 **What I did:**
 
-- Conducted session-based exploratory testing using a defined test charter
+- Conducted session-based exploratory testing using a defined test <a href="https://drive.google.com/file/d/19wB9ZnyD348fYdpqQScnUBTGRkF8nLkX/view?usp=drive_link" target="_blank"> **charter**</a>
 
-- Designed and applied checklists to guide feature exploration
+- Designed and applied <a href="https://docs.google.com/spreadsheets/d/14qQKyzGQiT3mLaXPiWEKb4nGBOX9U8EwRYP3S6mg7MI/edit?usp=sharing" target="_blank"> **checklist**</a> to guide feature exploration
 
 - Tested key recruitment workflows (_Candidate creation and management, Vacancy selection, Application status changes, Search and filtering behavior_)
 
 - Performed positive and negative testing
 
-- Identified, analyzed, and documented defects
+- Identified, analyzed, and documented <a href="https://drive.google.com/file/d/1DF3R7YzhQ9pM-81QsornneRf4PwWtMi8/view?usp=sharing"  target="_blank"> **defects**</a>
    
 ## 🛠️ Tools I can use
 <p align="center">
