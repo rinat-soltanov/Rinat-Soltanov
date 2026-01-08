@@ -30,6 +30,7 @@ Currently learning and practicing industry-standard tools and methods to build a
 - **Wrote and executed <a href="https://docs.google.com/spreadsheets/d/1U1eaNXB2yd5WtRAsroLNUVVc7YPIA02YO76Cmn70m4Y/edit?usp=sharing
 "> **SQL queries**</a> to validate data consistency and business rules directly in the database**
 
+
 ### 👉️2.**Recruitment Module (OrangeHRM)**
 **Project Description:**
 This project demonstrates hands-on experience in manual exploratory testing of a web-based HR application. Testing was performed on the Recruitment module of the OrangeHRM demo system, focusing on identifying functional defects, validation issues, and usability problems.
